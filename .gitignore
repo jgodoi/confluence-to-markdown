@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Generated output
+output/
+
+# macOS
+.DS_Store
