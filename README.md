@@ -10,7 +10,7 @@ A Node.js script to fetch pages from Confluence using its REST API and convert t
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/jgodoi/confluence-to-markdown.git
     cd conf2md
     ```
 2.  **Install dependencies:**
